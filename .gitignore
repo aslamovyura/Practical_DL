@@ -76,3 +76,12 @@ debian/files
 *.debhelper.log
 *.png
 week02_autodiff/notMNIST_small.tar.gz
+week03_convnets/cifar_data/cifar-10-batches-py/test_batch
+*.meta
+*.gz
+week03_convnets/cifar_data/cifar-10-batches-py/readme.html
+week03_convnets/cifar_data/cifar-10-batches-py/data_batch_5
+week03_convnets/cifar_data/cifar-10-batches-py/data_batch_4
+week03_convnets/cifar_data/cifar-10-batches-py/data_batch_3
+week03_convnets/cifar_data/cifar-10-batches-py/data_batch_2
+week03_convnets/cifar_data/cifar-10-batches-py/data_batch_1
